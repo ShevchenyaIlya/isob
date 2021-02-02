@@ -1,0 +1,4 @@
+/.idea/
+/second_lab/__pycache__/
+/venv
+/second_lab/.pre-commit-config.yaml
