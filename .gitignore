@@ -4,3 +4,5 @@
 /second_lab/.pre-commit-config.yaml
 /third_lab/__pycache__/
 /.pre-commit-config.yaml
+/sixth_lab/dist/pytransform/
+/sixth_lab/__pycache__/
